@@ -1,6 +1,6 @@
 # AI Studio — PRD & Roadmap Workspace 
 
-Generate comprehensive Product Requirements Documents using AI, powered by Groq's ultra-fast inference.
+Generate comprehensive Product Requirements Documents, Roadmaps, Code Reviews & Documentations  using AI, powered by Groq's ultra-fast inference.
 
 ## Features
 
